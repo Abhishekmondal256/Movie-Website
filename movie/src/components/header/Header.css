@@ -1,0 +1,31 @@
+.header{
+margin:0 2.5rem;
+padding:.5rem 0;
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+}
+.headerLeft,.headerRight{
+display: flex;
+align-items: center;
+}
+a >span{
+margin: 0 30px;
+font-size: 1.2rem;
+cursor: pointer;
+color: white;
+
+}
+a > span:hover {
+    color: red;
+}
+
+.headeric {
+    width: 80px;
+    cursor: pointer;
+}
+
+.usatar {
+    font-size: 2rem;
+}
